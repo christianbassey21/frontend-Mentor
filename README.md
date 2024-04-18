@@ -1,5 +1,6 @@
 # Frontend Mentor - Social links profile
 
+https://christianbassey21.github.io/social-links-profile-main/
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
